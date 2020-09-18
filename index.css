@@ -1,0 +1,168 @@
+body{
+    background-color: #f1f3f8;
+    font-family: 'Kufam', cursive;
+    margin: 0%;
+
+}
+h1{
+  text-align: center;
+  background-color: #8d93ab;
+  margin: 0%;  
+  font-size: 7em;
+  padding: 70px 0px 10px 0px ;
+}
+
+h2{
+  text-align: center;
+  font-size: 3em;
+}
+p{
+margin: 0% 25%;
+text-align: center;
+font-size: 1.6em;
+padding-bottom: 40px;
+}
+
+.left{
+  text-align: left;
+}
+
+.clearfix{
+  clear: both;
+}
+
+hr{
+width: 50%;
+border: 6px solid black;
+border-radius: 2px;
+margin-bottom: 40px;
+}
+
+.hrforequarter{
+  margin-bottom: 25px;
+}
+
+/* Add color to the top navigation */
+.topnav {
+    background-color: #596e79;
+    overflow: hidden;
+    
+  }
+  
+  /* Style inside the navigation bar */
+  .topnav a {
+    background-color: #6b7b8e;
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #b9ceeb;
+    color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a:active {
+    background-color: #d8d3cd;
+    color: white;
+  }
+  /*sticky navbar*/
+  .topnav{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+  }
+
+#black-cow{
+    width: 55%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    padding: 40px 0px 20px 0px;
+    border-radius: 70px;
+}
+#flankorskirt{
+  width: 35%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    padding: 40px 0px 20px 0px;
+    border-radius: 70px; 
+}
+#forequarter{
+  width: 35%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    padding: 40px 0px 20px 0px;
+    border-radius: 70px;
+}
+#hindquarter{
+  width: 35%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    padding: 40px 0px 20px 0px;
+    border-radius: 70px;
+  
+}
+#middleorloin{
+    width: 35%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    padding: 40px 0px 20px 0px;
+    border-radius: 70px;
+}
+#logo-img{
+height: 38px;
+float: right;
+padding: 5px 5px 5px;
+}
+/* cow-icon */
+
+ #cow-icon1 {
+  padding-left: 30%;
+} 
+
+#cow-icon2 {
+  padding-left: 67%;
+}
+#cow-icon3 {
+  padding-left: 30%;
+}
+#cow-icon4 {
+  padding-left: 67%;
+}
+#cow-icon5{
+  padding-left: 30%;
+}
+#cow-icon6{
+padding-left: 67%;
+}
+#cow-icon7{
+  padding-left: 30%;
+}
+#cow-icon8{
+  padding-left: 67%;
+  }
+#cow-icon9{
+  padding-left: 30%;
+}
+#cow-icon10{
+  padding-left: 67%;
+}
+footer {
+  display: flex; 
+  justify-content: center;
+}
+
+
+
+
